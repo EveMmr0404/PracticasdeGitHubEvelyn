@@ -10,7 +10,9 @@ namespace PracticasdeGitHubEvelyn
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("holi mi nombre es evelyn");
+            string nombreJuan = "Juan David";
+            //TODO: TODOS: Crear una variable con el nombre y concatenarla en la impresión:
+            Console.WriteLine($"Este es el equiep para el proyecto final: {nombreJuan}");
         }
     }
 }
