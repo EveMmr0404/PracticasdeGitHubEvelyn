@@ -8,10 +8,7 @@ namespace PracticasdeGitHubEvelyn
 {
     internal class Evelyn
     {
-     
-        //TODO: Evelyn-Solo existe un método Main en un programa de consola se debe renombrar el método.
-        //Si no se usan los parametros em método el cuál debe tener cualquier otro nombre  NO debe tener parametros
-        static void Main(string[] args)
+        static void BuenasPracticas()
         {
             Console.WriteLine("Y ESTA ES MI CLASE CON MI NOMBRE");
             Console.WriteLine("holi");
