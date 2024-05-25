@@ -11,6 +11,7 @@ namespace PracticasdeGitHubEvelyn
         static void Main(string[] args)
         {
             Console.WriteLine("Y ESTA ES MI CLASE CON MI NOMBRE");
+            Console.WriteLine("holi");
         }
     }
 }
