@@ -10,7 +10,7 @@ namespace PracticasdeGitHubEvelyn
     {
         // TODO: crear las propiedades nombre, fechanacimeinto, 
         //metodo calcular la edad
-        // metodo metodo que muestre si es mayor o no es mayor de edadd
+        // metodo metodo que muestre si es mayor o no es mayor de edad
         // Date.Now se obtiene la fecha del sistema.
         public  void BuenasPracticas()
         {
